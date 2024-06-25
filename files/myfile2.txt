@@ -1,0 +1,2 @@
+This line goes into the file
+You can wtire into a file object with the write method
